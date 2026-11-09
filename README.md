@@ -10,7 +10,7 @@
 # HTTPSignature
 An HTTP Message Signatures library for Swift.
 
-This is an implementation of the [RFC 941](https://datatracker.ietf.org/doc/html/rfc9421) specification. It does not include the needed cryptographic functions. But, you use your own as needed. I think it should be possible to build in direct support for CryptoKit on Apple platforms as well.
+This is an implementation of the [RFC 9421](https://datatracker.ietf.org/doc/html/rfc9421) specification. It does not include the needed cryptographic functions. But, you use your own as needed. I think it should be possible to build in direct support for CryptoKit on Apple platforms as well.
 
 ## Integration
 
